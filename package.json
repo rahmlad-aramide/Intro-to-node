@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "Used for introduction to node in Angela Yu fullstack course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/"
+  },
+  "author": "Rahmlad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "supervillains": "^3.0.0"
+  }
+}
